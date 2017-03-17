@@ -12,7 +12,8 @@ namespace Handiness.Winform.Control
     {
         private Color _circleColor = Color.WhiteSmoke;
         private string _contentText;
-
+        private Int32 Test
+        { get; set; }
         /********************************/
         public DigitalDisplay() : base()
         {
